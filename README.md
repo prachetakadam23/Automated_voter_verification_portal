@@ -9,7 +9,7 @@ A secure and intelligent voting system that verifies a voter's identity through 
 - 🆔 Voter ID validation from database
 - 🗳️ Vote casting interface with real-time validation
 - 🚫 Duplicate voting prevention – once a voter is verified and has voted, they cannot vote again via any method
-- 🌐 Language selection for accessibility
+- 🌐 Language selection for accessibility (multilingual support)
 
 ## Tech Stack
 
